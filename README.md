@@ -71,8 +71,7 @@ More platforms can be added easily — all that’s required is direct-streaming
 
 Returns metadata + direct video URL extracted via yt-dlp.
 
-**Example Response:**
-```json
+
 {
   "title": "Sample Video",
   "thumbnail": "https://...",
@@ -113,4 +112,14 @@ cd downloader-backend
 
 go run cmd/server/main.go
 The backend starts immediately — no database or additional services required.
+
+# ScreenShots
+
+[![Screenshot-2025-11-19-143713.png](https://i.postimg.cc/RCdhVXtP/Screenshot-2025-11-19-143713.png)](https://postimg.cc/PNLTSb2Z)
+
+[![Screenshot-2025-11-19-143806.png](https://i.postimg.cc/B6M3s7z3/Screenshot-2025-11-19-143806.png)](https://postimg.cc/sQQq4myH)
+
+[![Screenshot-2025-11-19-143849.png](https://i.postimg.cc/0Q2gtdy3/Screenshot-2025-11-19-143849.png)](https://postimg.cc/v1jSTn9L)
+
+[![Screenshot-2025-11-19-143925.png](https://i.postimg.cc/L5Yb7yFF/Screenshot-2025-11-19-143925.png)](https://postimg.cc/64Kc4fQM)
 
